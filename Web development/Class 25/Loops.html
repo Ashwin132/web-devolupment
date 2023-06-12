@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Loops and Arreys</title>
+</head>
+<body>
+    <script>
+        //Four importaint things in Loop.1 Starting point : means creating variable with start value. 2Ending point : means how many times  we need to repeat. 3counting : increament for code to work. 4Code that is need to be repeated.
+        
+        for( var a=1; a<=8;a+=2){
+            document.write("Hi :)")
+        }
+        //for of is used to get the Data from the Arrey.
+        //Arrey :Is is something which help variable to store lot of data
+        //Dictonary : Its is something which help variable to store lot of data but along with keys that is information about the data also it stores
+        var a=[0,1, 2,3,4,5,6,7,8,9] 
+        var b=""
+        for(let x of a){
+            b+=x
+        }
+        document.write(b)
+        //for in is used to get the Data from the Dictionarys
+        var c={Name:"Ashwin"}
+        var d=""
+        for(let x in c){
+            d+=x
+        }
+        document.write(d)
+    </script>
+</body>
+</html>

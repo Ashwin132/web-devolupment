@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Media query</title>
+    <style>
+        @media screen and (min-width:1200px){
+             h1{
+                color: aqua;
+                font-size: 30px;
+             }
+             h2{
+              animation-name: slidein;
+              animation-duration: 4s;
+              animation-iteration-count: 5;
+             }
+             @keyframes slidein {
+                from{
+                    margin-left: 1000%;
+                    width:300%;
+                }
+                to{
+                    margin-left: 0%;
+                    width: 50%;
+                }
+             }
+        }
+        @media screen and (min-width:700px){
+                h1{
+                    color: aqua;
+                    font-size: 25px;
+                }
+                
+        }
+
+    </style>
+</head>
+<body>
+    <center>
+        <h2>
+           We are going to use key frames that means we are moving things like text,images,ect 
+        </h2>
+    <b>
+    <h1>
+This is Media query.
+    </h1>
+</b>
+    </center>
+</body>
+</html>
