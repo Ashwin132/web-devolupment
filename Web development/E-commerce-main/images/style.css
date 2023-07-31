@@ -1,0 +1,202 @@
+.logo, .one, .cart{
+    display: inline-block;
+}
+.cart img{
+    height: 35px;
+    width: 35px;
+    margin-left: 300px;
+}
+.one ul li{
+    display: inline;
+    margin-left: 120px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);text-decoration: none;
+}
+.one ul li a{
+    font-size: 20px;
+    color: rgb(0, 0, 0);text-decoration: none;
+}
+.text, .football{
+    display: inline-block;
+}
+header{
+    background: radial-gradient(white,rgb(253, 198, 207));
+}
+.football img{
+width: 600px;
+height: 500px;
+margin-left: 700px;
+}
+.text{
+    position: absolute;
+    top: 300px;
+    left: 70px;
+}
+.col-1{
+    border:4px  solid  rgb(255, 139, 55);
+    width: 200px;
+    height: 300px;
+    padding-left: 70px;
+    padding-top: 40px;
+}
+.col-2{
+    border:4px  solid  rgb(255, 139, 55);
+    width: 200px;
+    height: 300px;
+    padding-left: 70px;
+    padding-top: 40px;
+}
+.col-3{
+border:4px  solid  rgb(255, 139, 55);
+width: 200px;
+height: 300px;
+padding-left: 70px;
+padding-top: 40px;
+}
+.col-1,.col-2,.col-3{
+    display: inline-block;
+    margin-left: 150px;
+    margin-top: 35px;
+}
+.hi img{
+    display: inline;
+    height: 500px;
+    width: 450px;
+}
+.hi{
+    margin-left: 50px;
+    margin-top: 35px;
+}
+
+.row{
+    background: radial-gradient(white,rgb(253, 198, 207));
+    margin-top: 35px;
+}
+.col-4,.col-5{
+display: inline-block;
+}
+.col-5{
+    font-size: 20px;
+    font-family: sans-serif;
+    position: absolute;
+    top: 1275px;
+    left: 690px;
+}
+.lol{
+    border-radius: 5px;
+    background-color:rgb(255, 222, 6) ;
+    height: 50px;
+    width: 100px;
+}
+.big div{
+    display: inline-block;
+}
+.big img{
+    width: 350px;
+height: 400px;
+margin-left: 20px;
+}
+
+.d{
+    background-color: black;
+    color: white;
+    position: absolute;
+   
+    top: 2200px;
+    width: 1575px;
+}
+.di,.din,.dind,.dindin{
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    margin-left: 65px;
+}
+.di img{
+height: 50px;
+width: 200px;
+}
+.m{
+    border-radius: 30px;
+    height: 400px;
+    width: 300px;
+    padding-top: 100px;
+    text-align: center;
+    margin-left: 600px;
+    font-size: 25px;
+    margin-top: 80px;
+    background-color: rgb(255, 94, 0);
+}
+.mm{
+    border-radius: 30px;
+    background-color: blue;
+    color: blanchedalmond;
+    height:70px ;
+    width: 160px;
+    padding:30px ;
+    font-size: 25px;
+    text-align: center;
+}
+.n{
+    height:800px ;
+    background: radial-gradient(white,rgb(253, 198, 207))
+}
+.k{
+    text-align: center;
+}
+.xy p{
+    font-size: 25px;
+    text-align: center;
+    color: rgba(24, 204, 30, 0.856);
+}
+.xy h1{
+font-size:40px ;
+text-align: center;
+color: aqua;
+}
+.t{
+    height: 2100px;
+    
+}
+.mo p{
+color:black ;
+font-size:25px;
+text-align: center;
+}
+.mo h1{
+    text-align: center;
+color:black ;
+font-size:40px;
+}
+.zomg{
+    background: radial-gradient(white rgb(253, 198, 207));
+    height:2400px;
+}
+.col-11{
+    border:4px  solid  rgb(255, 139, 55);
+    width: 200px;
+    height: 300px;
+    margin-left: 60px;
+    padding-left: 70px;
+    padding-top: 40px;
+}
+.col-22{
+    border:4px  solid  rgb(255, 139, 55);
+    width: 200px;
+    height: 300px;
+    padding-left: 70px;
+    padding-top: 40px;
+    margin-left: 600px;
+}
+.col-33{
+border:4px  solid  rgb(255, 139, 55);
+width: 200px;
+height: 300px;
+padding-left: 70px;
+padding-top: 40px;
+margin-left: 1150px;
+}
+.col-11,.col-22,.col-33{
+    display: inline-block;
+    position: absolute;
+    top: 1150px;
+}
